@@ -1,0 +1,13 @@
+[package]
+name = "enums"
+version = "0.1.0"
+authors = ["Alexander T. <Alexander.Thomas_2026@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "enums"
+path = "main.rs"
